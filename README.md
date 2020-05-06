@@ -9,8 +9,8 @@ Clone the project via git clone or download the zip file. Then install all the d
 
 ## Change Path for APIs
 Change the API URL in the config.js file as 
-API_BASE_URL = http://localhost:8000/api
-ASSET_BASE_URL = http://localhost:8000/assets/images
+- API_BASE_URL = http://localhost:8000/api
+- ASSET_BASE_URL = http://localhost:8000/assets/images
 
 ## Run the Application
 In the project directory, you can run:
