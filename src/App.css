@@ -36,7 +36,10 @@
   color: white;
 }
 
-
+.navbar-toggler {
+  background-color: #fff;
+  border: 1px solid #fff;
+}
 
 @keyframes App-logo-spin {
   from {
